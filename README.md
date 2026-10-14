@@ -2,7 +2,9 @@
 
 Everyday Carry - my guides and configurations
 
-Home setup is available in [fedora](fedora.md).
+Home setup is available in [fedora](fedora.md). Other goodies include:
+- Creating a Development Container
+- Setting up OpenCode with local agents
 
 ## Reading 
 
