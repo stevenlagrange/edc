@@ -1,0 +1,7 @@
+{
+  "name": "Fedora Minimal",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "root" 
+}
